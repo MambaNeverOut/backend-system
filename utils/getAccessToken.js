@@ -52,6 +52,6 @@ setInterval(async () => {
 }, (7200 - 300) * 1000);
 
 // updateAccessToken()
-// getAccessToken();
+getAccessToken();
 
 module.exports = getAccessToken;
